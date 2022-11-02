@@ -1,9 +1,9 @@
 # Lesson: Advanced Interaction Technologies & Applications
 
-### First and Last Name: xxx
-### University Registration Number: dpsdxxxxx
-### GitHub Personal Profile: xxx
-### Advanced Interaction Tecnologies & Applications Github Personal Repository: xxx
+### First and Last Name: Στέλλα Πιπεράκη
+### University Registration Number: dpsd19109
+### GitHub Personal Profile: https://github.com/StellaPiperaki
+### https://github.com/StellaPiperaki/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment
 
 # Introduction
 
