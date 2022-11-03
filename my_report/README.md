@@ -34,9 +34,10 @@
 <img  src="https://user-images.githubusercontent.com/101418268/199680222-2021f4ab-fcf6-4633-8695-c5c9e5c3919d.png" width="420"/> <img  src="https://user-images.githubusercontent.com/101418268/199680272-84a7e94d-c7b4-48ee-979e-6ab4e842f3a1.png" width="420"/>
 
 #### 5.Augmented Reality: 
-Για το πέμπτο και τελευταίο βήμα του πρώτου παραδοτέου επίσης έκανα κάποιες αλλαγές στον κώδικα και δημιούργησα ένα φάκελο data και πρόσθεσα την εικόνα που θέλω να προβάλλεται με όνομα cat.png, ανέβασα τον φάκελο data ώστε να διαβαστεί η εικόνα και όταν διαβάζει το hiro η κάμερα να εμφανίζεται η εικόνα μου.
+Για το πέμπτο και τελευταίο βήμα του πρώτου παραδοτέου επίσης έκανα κάποιες αλλαγές στον κώδικα και δημιούργησα ένα φάκελο data και πρόσθεσα την εικόνα που θέλω να προβάλλεται με όνομα cat.png, ανέβασα τον φάκελο data ώστε να διαβαστεί η εικόνα και όταν διαβάζει το hiro η κάμερα να εμφανίζεται η εικόνα της γάτας μου.
 
 <img  src="https://user-images.githubusercontent.com/101418268/199680439-22036598-bd9e-4136-a8df-c74368b16aa5.png" width="420"/> <img  src="https://user-images.githubusercontent.com/101418268/199680472-bc8f6579-7aaf-4eac-86c3-f8272963c103.png" width="420"/>
+<img  src="https://user-images.githubusercontent.com/101418268/199838572-daff9c18-13fd-4fca-a58b-4e397d03beb1.png" width="420"/>
 
 # 2nd Deliverable
 
