@@ -1,6 +1,6 @@
 # Lesson: Advanced Interaction Technologies & Applications
 
-### First and Last Name: Στέλλα Πιπεράκη 🌻
+### First and Last Name: Πιπεράκη Στυλιανή Ραφαέλλα 🌻
 ### University Registration Number: dpsd19109
 ### GitHub Personal Profile: https://github.com/StellaPiperaki
 ### Advanced Interaction Tecnologies & Applications Github Personal Repository:
