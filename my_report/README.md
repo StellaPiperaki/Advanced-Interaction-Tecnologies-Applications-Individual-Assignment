@@ -41,6 +41,24 @@
 
 # 2nd Deliverable
 
+#### 1.Backround Removal:
+
+<img  src="https://user-images.githubusercontent.com/101418268/206520419-66cc35bb-230e-406d-af9d-71a20520eef5.png" width="420"/>
+
+#### 2.Motion Detection:
+
+ https://user-images.githubusercontent.com/101418268/206520905-0f03cc75-5542-4656-ab9a-268b12a6fd8b.mov 
+ 
+<img  src="https://user-images.githubusercontent.com/101418268/206526079-03edad3d-2ae4-44db-ab49-d2b21cc1966d.PNG" width="260"/> <img  src="https://user-images.githubusercontent.com/101418268/206526314-68c16ac9-d643-440e-a5cf-25393ab7847e.jpg" width="320"/>
+
+#### 3.Backround Substraction:
+
+https://user-images.githubusercontent.com/101418268/206521318-e9ffa2c5-6ea2-4aa0-9a76-e3700d9ab418.mov
+
+<img  src="https://user-images.githubusercontent.com/101418268/206526392-75feb810-2544-42df-b300-3820e2f5791c.jpg" width="200"/> <img  src="https://user-images.githubusercontent.com/101418268/206526592-12704105-51d9-460d-bf9f-2761ac2d6e88.jpg" width="220"/>
+
+#### 4.Object Tracking:
+
 
 # 3rd Deliverable 
 
@@ -52,9 +70,11 @@
 
 
 # Sources
-Για το παραδοτέο 1:
+#### Για το 1ο παραδοτέο:
 https://processing.org/tutorials/video#live-video
 βιβλίο του Daniel Shiffman από το eclass
 https://www.youtube.com/watch?v=nJWV7X7df9w
 https://www.youtube.com/watch?v=lJoUhLyI1TM
 https://processing.org/examples/embeddedlinks.html
+
+#### Για το 2ο παραδοτέο:
