@@ -44,8 +44,10 @@
 #### 1.Backround Removal:
 Στο πρώτο βήμα βασίστηκα στην άσκηση 16.6 και σκοπός είναι η αφαίρεση του background και να προσθέσω ένα βίντεο (stars.mp4) και σε ένα δεύτερο αρχείο να προσθέσω για το background μια εικόνα (milos.mp4). Το αποτέλεσμα με την εικόνα για το background είναι στην παρακάτω φωτογραφία.
 
-<img  src="https://user-images.githubusercontent.com/101418268/207149956-caa15f0c-2845-4741-84b5-a15c2aae41fd.png" width="420"/>
-<img  src="https://user-images.githubusercontent.com/101418268/206520419-66cc35bb-230e-406d-af9d-71a20520eef5.png" width="420"/>
+
+https://user-images.githubusercontent.com/101418268/207150732-b6b5d703-c062-4401-b9ca-9cfd45884d5a.mov
+
+<img  src="https://user-images.githubusercontent.com/101418268/207149956-caa15f0c-2845-4741-84b5-a15c2aae41fd.png" width="420"/> <img  src="https://user-images.githubusercontent.com/101418268/206520419-66cc35bb-230e-406d-af9d-71a20520eef5.png" width="420"/>
 
 #### 2.Motion Detection:
 Για το δεύτερο βήμα βασίστηκα στο παράδειγμα 16.7, αλλάζοντας τη σφαίρα και έφτιαξα ένα ορθογώνιο και άλλαξα και το χρώμα και το έκανα πορτοκαλί. Στο παρακάτω βίντεο και στις φωτογραφίες φαίνεται η κίνηση του ορθογωνίου όταν κουνάω το χεέρι μου , η κάμερα αντιλμβάνεται την κίνηση του χεριού και το ορθογώνιο την ακολουθεί.
