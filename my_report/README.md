@@ -44,6 +44,7 @@
 #### 1.Backround Removal:
 Στο πρώτο βήμα βασίστηκα στην άσκηση 16.6 και σκοπός είναι η αφαίρεση του background και να προσθέσω ένα βίντεο (stars.mp4) και σε ένα δεύτερο αρχείο να προσθέσω για το background μια εικόνα (milos.mp4). Το αποτέλεσμα με την εικόνα για το background είναι στην παρακάτω φωτογραφία.
 
+<img  src="https://user-images.githubusercontent.com/101418268/207149956-caa15f0c-2845-4741-84b5-a15c2aae41fd.png" width="420"/>
 <img  src="https://user-images.githubusercontent.com/101418268/206520419-66cc35bb-230e-406d-af9d-71a20520eef5.png" width="420"/>
 
 #### 2.Motion Detection:
