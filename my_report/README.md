@@ -78,9 +78,30 @@ https://user-images.githubusercontent.com/101418268/206542383-f8e1d349-8ee0-46ec
 <img  src="https://user-images.githubusercontent.com/101418268/206536068-977181ce-70ff-4c4b-99fa-1f2008657491.jpg" width="320"/> <img  src="https://user-images.githubusercontent.com/101418268/206536123-5198f390-210b-4c05-beb8-9b31f8068a72.jpg" width="320"/>
 <img  src="https://user-images.githubusercontent.com/101418268/206536205-f4fd7950-cfb4-4b72-8dea-105aea9ec34d.jpg" width="320"/>
 
-
 # 3rd Deliverable 
+Για το τριτο παραδοτέο ;έκανα εγκατάσταση της εφαρμογής reacTIVision vision engine, της βιβλιοθήκης reacTIVision στο Processing και της εφαρμογής TUIO Simulator.
+Έπειτα πρόσθεσα κάποιες "if" όπου που αντιστοιχούν σε όλες τις επιλογές και για την κάθε επιλογή γίνετε οι αλλαγές, μετασχηματισμοί.
+Στις εικόνες και στα βίντεο παρακάτω φαινονται οι αλλαγές και οι μετασχηματισμοί
 
+Με το σχήμα 0 εισάγω και αλλάζω τη θέση της εικόνας:
+![Screenshot (4)](https://user-images.githubusercontent.com/101418268/212463388-cff97df4-89eb-4546-990e-19759b73f9cd.png)
+![Screenshot (5)](https://user-images.githubusercontent.com/101418268/212463420-efae44a5-aafb-416d-9c46-41ac188f0046.png)
+Με το σχήμα 1 αλλάζω το χρώμα σε πράσινο και ρυθμίζω την πυκνότητα του χρώματος:
+![Screenshot (6)](https://user-images.githubusercontent.com/101418268/212463432-128679c8-548b-4ddb-b74f-7e0b28566f4c.png)
+Με το σχήμα 2 περιστρέφω την εικόνα:
+![Screenshot (7)](https://user-images.githubusercontent.com/101418268/212463437-5624803a-dfdd-4156-a774-ea3a3f82d787.png)
+Με το σχήμα 3 κάνω zoom in zoom out την εικόνα:
+![Screenshot (8)](https://user-images.githubusercontent.com/101418268/212463443-f1a87427-0fd9-45be-975c-25caf78ff76b.png)
+
+![Screenshot (9)](https://user-images.githubusercontent.com/101418268/212463463-be9a73a4-784e-4e2f-a450-eb99279021c0.png)
+Με το 4 σχημα αλλαζω το opacity:
+![Screenshot (10)](https://user-images.githubusercontent.com/101418268/212463477-e12ab662-b568-4324-a5fc-a6100b9b24e6.png)
+
+https://user-images.githubusercontent.com/101418268/212463964-e9e1ce1f-f7cf-4d87-8bf5-b9afeb8646ac.mov
+https://user-images.githubusercontent.com/101418268/212464085-89ef5b2b-0dd7-4343-bd0c-b8015cc65066.mov
+https://user-images.githubusercontent.com/101418268/212463985-64d86131-578a-4ecd-a70d-6204ac222e47.mov
+https://user-images.githubusercontent.com/101418268/212464007-2d4a07b2-1c74-4d60-9dc5-3f575c41f441.mov
+https://user-images.githubusercontent.com/101418268/212464011-333a634f-85be-4497-9aed-5baab69edc02.mov
 
 # Bonus 
 
